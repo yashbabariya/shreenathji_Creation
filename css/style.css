@@ -978,7 +978,7 @@ footer.copyright a{
 @media only screen and (max-width: 768px){
     .container{
         max-width: 720px;
-        padding: 0 2px;
+        padding: 0 1.6rem;
     }
 
     .btn{
@@ -1039,7 +1039,7 @@ footer.copyright a{
     }
 
     section.about{
-        height: 120vh;
+        height: 100vh;
     }
 
     .about .info{
@@ -1058,7 +1058,7 @@ footer.copyright a{
         position: relative;
         justify-content: center;
         width: 200px;
-        left: -120px;
+        left: -100px;
     }
 
     section.about .container .section-heading{
@@ -1105,7 +1105,7 @@ footer.copyright a{
     }
 
     section.blog{
-        height: 200vh;
+        height: 180vh;
     }
 
     .blog .blog_wrap{
@@ -1120,7 +1120,7 @@ footer.copyright a{
     .blog .blog_wrap .square{
         margin-bottom: 2rem;
         position: relative;
-        left: -2.9rem;
+        left: -2rem;
     }
 
     .content1{
@@ -1159,13 +1159,13 @@ footer.copyright a{
     }
 
     section.service{
-        height: 200vh;
+        height: 175vh;
     }
 
     .container1{
         position: relative;
         top: -10px;
-        left: -2.5rem;
+        left: -1rem;
         display: block;
     }
 
@@ -1174,7 +1174,7 @@ footer.copyright a{
     }
 
     section.client{
-        height: 90vh;
+        height: 75vh;
     }
 
     .container .logo{
